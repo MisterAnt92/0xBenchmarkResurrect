@@ -1,6 +1,7 @@
 # 0xBenchmarkResurrect
-This repo was cloned from 0xbench project. I resurrect this project updating with new AS and with Kotlin integration.
+This repo was cloned from 0xbench project.
 Thi project died after oct 27, 2011.
+I resurrect this project with new AS and Kotlin integration.
 
 ## Project info
 
