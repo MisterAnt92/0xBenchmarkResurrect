@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.ShowErrorActivity">
+
+    <ImageView
+        android:id="@+id/imageViewError"
+        android:layout_width="@dimen/error_image"
+        android:layout_height="@dimen/error_image"
+        android:contentDescription="show error"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3"
+        app:srcCompat="@drawable/ic_error_detected" />
+
+    <TextView
+        android:id="@+id/textViewError"
+        style="@style/textStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/error_detected"
+        android:textColor="@color/red_light"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewError"
+        app:layout_constraintStart_toStartOf="@+id/imageViewError"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewError" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

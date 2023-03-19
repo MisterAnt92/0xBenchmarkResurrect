@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">0xBenchmark</string>
+
+    <string name="btn_run_text">Run</string>
+    <string name="btn_autotest_text">AutoTest</string>
+    <string name="btn_show_text">Show</string>
+    <string name="btn_upload_text">Share</string>
+    <string name="txtvw_upload_help">Click "send" to upload to default page, or check "login" to create your own page (you need to get apikey from 0xBenchWeb first).</string>
+    <string name="txtvw_benchname">Upload to benchmark page:</string>
+    <string name="txtvw_email">Email:</string>
+    <string name="txtvw_api">API Key:</string>
+    <string name="btn_send_text">Send</string>
+    <string name="btn_back_text">Done</string>
+    <string name="default_benchname">PublicPage</string>
+    <string name="login">Login</string>
+    <string name="settings_path_hint">Save result to…</string>
+    <string name="settings_custom_path">Customize</string>
+    <string name="settings_edit_path">Edit Custom Path</string>
+    <string name="menu_settings">Settings</string>
+    <string name="banner_info_text">Hell World!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="error_detected">Benchmark\nhas detect\nsome faults!</string>
+    <string name="test_passed">Benchmark\ntest\npassed!</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+
+    <dimen name="padding_text">2dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="padding_smallest">2dp</dimen>
+    <dimen name="div_height">1dp</dimen>
+
+    <dimen name="fontsize_smallest">12sp</dimen>
+    <dimen name="fontsize_small">16sp</dimen>
+    <dimen name="fontsize_normal">18sp</dimen>
+    <dimen name="fontsize_medium">22sp</dimen>
+    <dimen name="fontsize_large">26sp</dimen>
+    <dimen name="fontsize_largest">32sp</dimen>
+    <dimen name="fontsize_maxi">65sp</dimen>
+
+    <dimen name="margin_smallest">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_medium">22dp</dimen>
+    <dimen name="margin_big">36dp</dimen>
+    <dimen name="margin_biggest">45dp</dimen>
+
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="corner_radius_small">3dp</dimen>
+
+    <dimen name="error_image">400dp</dimen>
+
+</resources>
