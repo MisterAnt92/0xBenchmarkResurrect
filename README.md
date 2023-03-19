@@ -1,5 +1,5 @@
 # 0xBenchmarkResurrect
-This repo was cloned from 0xbench project. I resurrect this project updating with new Andorid Studio and with Kotlin integration.
+This repo was cloned from 0xbench project. I resurrect this project updating with new AS and with Kotlin integration.
 Thi project died after oct 27, 2011.
 
 ## Project info
